@@ -1,0 +1,40 @@
+#react-body {
+  margin: 10px;
+}
+
+code {
+  padding: 0.2em 0;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(27, 31, 35, 0.05);
+  border-radius: 3px
+}
+
+.reflv-wrap {
+  margin: 0 auto;
+  max-width: 1000px;
+
+  h3 {
+    margin: 30px 0 5px 0;
+  }
+
+  .redemo {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .ant-table {
+
+    td {
+      word-break: normal;
+    }
+
+    .ant-table-content {
+      overflow-x: scroll;
+    }
+  }
+
+  .ant-switch {
+    margin-bottom: 10px;
+  }
+}
